@@ -20,6 +20,7 @@ export default defineConfig({
 				{
 					label: "Manual de Usuario",
 					autogenerate: { directory: "manual-usuario" },
+					collapsed: false,
 				},
 			],
 		}),
