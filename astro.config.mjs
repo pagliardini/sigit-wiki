@@ -12,9 +12,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: "SIGIT Wiki",
-			defaultLocale: "es",
 			locales: {
-				es: { label: "Español", lang: "es" },
+				root: { label: "Español", lang: "es" },
 			},
 			sidebar: [
 				{
