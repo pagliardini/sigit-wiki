@@ -58,18 +58,18 @@ Agrupan ubicaciones dentro de una sede y sirven como unidad de imputación conta
 El lugar físico concreto donde vive un activo, dentro de un centro de costo. Desde la ficha de una ubicación se
 ve el listado de activos actualmente asignados ahí.
 
-## Sedes 🔒
+## Sedes *
 
 Solo superadmin puede crear, editar o borrar sedes. Cada sede tiene nombre, código, dirección, y puede marcarse
 como sede por defecto. También se define ahí la **ubicación de llegada por defecto**, usada al recibir
 transferencias sin ubicación destino explícita (configurable también desde **Configuración**, ver
 [Otras funciones](/manual-usuario/otras-funciones/)).
 
-## Proveedores 🔒
+## Proveedores *
 
 Ver [Compras](/manual-usuario/compras/).
 
-## Importar Catálogo 🔒
+## Importar Catálogo *
 
 **Catálogo → Importar Catálogo** permite cargar en lote, desde un archivo **CSV, XLS o XLSX**, alguno de estos
 tres catálogos:

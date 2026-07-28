@@ -17,10 +17,10 @@ Cualquier usuario puede reportar un problema desde el enlace **Reportar Bug** al
 formulario pide título, descripción, pasos para reproducirlo, comportamiento esperado vs. observado y
 prioridad (Baja, Media, Alta, Crítica).
 
-Los reportes solo son visibles en el listado **Ver Bugs** para usuarios superadmin 🔒, quienes pueden asignarlos
+Los reportes solo son visibles en el listado **Ver Bugs** para usuarios superadmin *, quienes pueden asignarlos
 a alguien, cambiar su estado (Pendiente, En Progreso, Resuelto, Cerrado) y dejar notas de resolución.
 
-## Configuración del sistema 🔒
+## Configuración del sistema *
 
 **Configuración** (solo superadmin) tiene dos partes:
 

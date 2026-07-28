@@ -5,7 +5,7 @@ sidebar:
   order: 9
 ---
 
-## Listado y alta de usuarios 🔒
+## Listado y alta de usuarios *
 
 **Usuarios** (menú, solo superadmin) lista todos los usuarios con búsqueda y ordenamiento. Desde
 **Nuevo Usuario** se completa: usuario, email, nombre completo, contraseña, rol, sede y opcionalmente una foto

@@ -36,7 +36,7 @@ puntual, más notas opcionales.
 La ficha del activo muestra todas sus asignaciones pasadas y la activa, con fechas de inicio y devolución,
 destino y notas — útil para saber "quién tuvo este equipo" en cualquier momento.
 
-## Imputación contable de activos (🔒 superadmin)
+## Imputación contable de activos (* superadmin)
 
 Cuando se asigna un activo **por primera vez** (es decir, es un activo nuevo que nunca tuvo asignación previa),
 se puede marcar la casilla **Generar imputación** al asignarlo. Esto crea una imputación contable en estado

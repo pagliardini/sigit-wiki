@@ -12,7 +12,7 @@ SIGIT tiene dos roles:
 | Rol | Qué puede hacer |
 |---|---|
 | **Técnico** | Uso diario: crear y editar activos y consumibles, asignarlos, crear transferencias, ver reportes. |
-| **Superadmin** 🔒 | Todo lo del técnico, más: gestión de usuarios, compras, sedes, proveedores, imputaciones contables de activos, reposiciones, importación masiva de catálogos, configuración del sistema y log de auditoría. |
+| **Superadmin** * | Todo lo del técnico, más: gestión de usuarios, compras, sedes, proveedores, imputaciones contables de activos, reposiciones, importación masiva de catálogos, configuración del sistema y log de auditoría. |
 
 Un usuario superadmin puede crear otros usuarios superadmin; un técnico no.
 
@@ -53,13 +53,13 @@ La barra lateral agrupa las funciones así:
 - **Dashboard**
 - **Activos**
 - **Consumibles**
-- **Reposiciones** 🔒
-- **Imputaciones Activos** 🔒
+- **Reposiciones** *
+- **Imputaciones Activos** *
 - **Transferencias**
 - **Reportes**
-- **Compras** 🔒
+- **Compras** *
 - **Catálogo** (submenú): Categ. Activos, Estados, Marcas, Modelos, Categ. Consumibles, Centros de Costo,
   Ubicaciones, y — solo superadmin — Sedes, Proveedores e Importar Catálogo.
-- **Usuarios** 🔒 y **Configuración** 🔒
+- **Usuarios** * y **Configuración** *
 
 Al pie de cada página hay un enlace para **Reportar Bug**, disponible para cualquier usuario.

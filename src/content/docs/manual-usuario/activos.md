@@ -16,7 +16,7 @@ UPS, un monitor, etc. Cada activo tiene un **Asset Tag** único (código de inve
 | Nombre | Nombre descriptivo del equipo. |
 | Categoría | Tipo de activo (Impresoras, Notebooks, UPS, etc.) — ver [Catálogos](/manual-usuario/catalogos/). |
 | Marca / Modelo | Fabricante y modelo específico, tomado del catálogo de Marcas y Modelos. |
-| Nº de Serie | Número de serie del fabricante. Solo un **superadmin** 🔒 puede corregirlo una vez creado el activo. |
+| Nº de Serie | Número de serie del fabricante. Solo un **superadmin** * puede corregirlo una vez creado el activo. |
 | Fecha y costo de compra | Datos de la compra original. |
 | Estado | Estado actual del activo (Disponible, Asignado, En Mantenimiento, etc.) — ver [Catálogos](/manual-usuario/catalogos/). |
 | Sede | Sede a la que pertenece el activo. Se completa sola según la sede de quien lo crea, o según la ubicación a la que se asigna. |
@@ -45,13 +45,13 @@ La ficha de un activo (**Activos → ver un activo**) muestra sus datos, su asig
 asignaciones anteriores, los consumibles que tiene asociados y sus imputaciones contables (si las tiene).
 
 Desde **Editar** se pueden corregir todos los campos salvo el número de serie, que —una vez creado el
-activo— solo puede modificarlo un superadmin 🔒 (para evitar cambios accidentales sobre un dato sensible de
+activo— solo puede modificarlo un superadmin * (para evitar cambios accidentales sobre un dato sensible de
 auditoría).
 
 ## Eliminar activos
 
 Se puede eliminar un activo individual desde su ficha, o varios a la vez con la selección múltiple en el listado
-(**acción masiva de borrado**, solo disponible para superadmin 🔒). Al eliminar un activo se eliminan también su
+(**acción masiva de borrado**, solo disponible para superadmin *). Al eliminar un activo se eliminan también su
 historial de asignaciones y sus asociaciones de consumibles.
 
 ## Consumibles compatibles con un activo

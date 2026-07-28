@@ -14,7 +14,7 @@ principal.
 
 **Reportes** es la puerta de entrada a los distintos informes del sistema.
 
-### Log de actividad 🔒
+### Log de actividad *
 
 **Reportes → Log de Actividad** (solo superadmin) muestra el historial completo de acciones registradas en
 SIGIT: creación/edición/eliminación de activos y consumibles, asignaciones y desasignaciones, transferencias,

@@ -28,5 +28,5 @@ Este manual explica, sección por sección, qué se puede hacer en cada pantalla
 ## Convenciones usadas en este manual
 
 - Los nombres entre **negrita** corresponden a etiquetas o botones tal como aparecen en la interfaz.
-- 🔒 marca las funciones que solo puede usar un usuario con rol **superadmin**.
+- * marca las funciones que solo puede usar un usuario con rol **superadmin**.
 - Los ejemplos de pantallas usan los mismos nombres de menú que ves en la barra lateral de la aplicación.
