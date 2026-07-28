@@ -5,8 +5,6 @@ sidebar:
   order: 8
 ---
 
-# Catálogos
-
 Los catálogos son las listas maestras que usan los activos y consumibles. Se gestionan desde el submenú
 **Catálogo** de la barra lateral. Salvo indicación contraria, cualquier usuario (técnico o superadmin) puede
 crear, editar y borrar entradas de catálogo — solo **Sedes**, **Proveedores** e **Importar Catálogo** son

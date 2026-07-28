@@ -5,8 +5,6 @@ sidebar:
   order: 3
 ---
 
-# Asignaciones e imputaciones de activos
-
 ## Asignación triple: usuario, ubicación u otro activo
 
 Un activo se puede asignar a tres tipos de destino distintos (nunca a más de uno a la vez):

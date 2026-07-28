@@ -5,8 +5,6 @@ sidebar:
   order: 4
 ---
 
-# Consumibles
-
 Un **consumible** es un insumo que se gasta con el uso: tóners, cartuchos de tinta, papel, baterías, etc. A
 diferencia de un activo, un consumible se controla por **cantidad de stock**, no de forma unitaria.
 

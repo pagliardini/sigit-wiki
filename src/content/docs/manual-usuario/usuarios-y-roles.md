@@ -5,8 +5,6 @@ sidebar:
   order: 9
 ---
 
-# Usuarios y roles
-
 ## Listado y alta de usuarios 🔒
 
 **Usuarios** (menú, solo superadmin) lista todos los usuarios con búsqueda y ordenamiento. Desde

@@ -5,8 +5,6 @@ sidebar:
   order: 5
 ---
 
-# Reposiciones 🔒
-
 *Sección visible solo para usuarios superadmin.*
 
 Cada vez que se imputa un consumible (a un activo, usuario o ubicación), esa imputación queda con un **estado de

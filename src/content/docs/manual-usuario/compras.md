@@ -5,8 +5,6 @@ sidebar:
   order: 7
 ---
 
-# Compras 🔒
-
 *Sección visible solo para usuarios superadmin.*
 
 ## Proveedores

@@ -5,8 +5,6 @@ sidebar:
   order: 6
 ---
 
-# Transferencias
-
 Una **transferencia** es el envío de uno o más activos y/o cantidades de consumibles desde una sede de origen a
 una sede de destino (y, opcionalmente, a una ubicación puntual dentro de esa sede).
 

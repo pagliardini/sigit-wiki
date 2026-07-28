@@ -5,8 +5,6 @@ sidebar:
   order: 1
 ---
 
-# Conceptos generales
-
 ## Roles de usuario
 
 SIGIT tiene dos roles:

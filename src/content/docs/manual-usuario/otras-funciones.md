@@ -5,8 +5,6 @@ sidebar:
   order: 11
 ---
 
-# Otras funciones
-
 ## Chat interno
 
 SIGIT incluye un chat en tiempo real entre usuarios del sistema (ícono de chat en la interfaz), con indicador de

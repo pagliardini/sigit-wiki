@@ -5,8 +5,6 @@ sidebar:
   order: 2
 ---
 
-# Activos
-
 Un **activo** es cualquier equipo individual que se controla de forma unitaria: una notebook, una impresora, un
 UPS, un monitor, etc. Cada activo tiene un **Asset Tag** único (código de inventario) que lo identifica.
 

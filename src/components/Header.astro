@@ -5,11 +5,15 @@ import { SITE_TITLE } from '../consts';
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<div class="logo-title">
+			<a href="/">
+				<img src="/logo.png" alt="SIGIT Logo" class="nav-logo" />
+				<h2>{SITE_TITLE}</h2>
+			</a>
+		</div>
 		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/">Inicio</HeaderLink>
+			<HeaderLink href="/manual-usuario/">Manual de Usuario</HeaderLink>
 		</div>
 		<div class="social-links">
 			<a href="https://m.webtoo.ls/@astro" target="_blank">
@@ -49,14 +53,21 @@ import { SITE_TITLE } from '../consts';
 		background: white;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
 	}
+	.logo-title a {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		text-decoration: none;
+		padding: 0.5em 0;
+	}
+	.nav-logo {
+		height: 32px;
+		width: auto;
+	}
 	h2 {
 		margin: 0;
-		font-size: 1em;
-	}
-
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
+		font-size: 1.1em;
+		color: var(--black);
 	}
 	nav {
 		display: flex;

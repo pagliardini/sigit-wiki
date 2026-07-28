@@ -5,8 +5,6 @@ sidebar:
   order: 10
 ---
 
-# Reportes y auditoría
-
 ## Dashboard
 
 Ver [Conceptos generales](/manual-usuario/conceptos-generales/#el-dashboard) para el detalle de lo que muestra la pantalla

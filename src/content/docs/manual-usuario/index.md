@@ -5,8 +5,6 @@ sidebar:
   order: 0
 ---
 
-# Manual de usuario de SIGIT
-
 SIGIT (Sistema de Gestión de Infraestructura Tecnológica) es la aplicación donde se registra y controla todo el
 inventario de TI de la organización: computadoras, impresoras, UPS y demás equipos (**activos**), junto con los
 insumos que se consumen con el uso (**consumibles**), en todas las **sedes** de la empresa.
