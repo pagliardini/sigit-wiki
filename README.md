@@ -11,8 +11,8 @@ publicado como Cloudflare Worker.
 En `index.astro`, arriba de todo:
 
 - `CONTACT_EMAIL`: casilla que recibe las consultas.
-- `FORM_ENDPOINT`: opcional, URL que recibe el formulario de contacto como JSON (Formspree,
-  Web3Forms...). Vacío: el formulario abre el correo del visitante con la consulta escrita.
+- `FORM_ENDPOINT`: URL que recibe el formulario de contacto como JSON (hoy Formspree, proyecto "sigit";
+  los envíos llegan a sigit@pagliardini.com). Vacío: el formulario abre el correo del visitante.
 
 Capturas en `public/screens/` (de la demo, en modo claro y oscuro) e imagen para redes en
 `public/og.png`.

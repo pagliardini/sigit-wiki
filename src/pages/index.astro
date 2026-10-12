@@ -6,7 +6,7 @@ const DEMO_URL = 'https://demo.sigit.pagliardini.com';
 const CONTACT_EMAIL = 'sigit@pagliardini.com';
 // Opcional: endpoint que recibe el formulario como JSON (Formspree, Web3Forms, un Worker...).
 // Vacío: el formulario abre el cliente de correo con la consulta ya escrita.
-const FORM_ENDPOINT = '';
+const FORM_ENDPOINT = 'https://formspree.io/f/xwlvnyrp';
 
 const title = 'SIGIT — Gestión de activos e inventario de TI';
 const description =
@@ -327,6 +327,7 @@ const year = new Date().getFullYear();
 					status.textContent = 'Se abrió tu programa de correo con la consulta lista para enviar.';
 					return;
 				}
+				data._subject = `Consulta SIGIT — ${data.organizacion}`; // asunto del mail (Formspree)
 				const button = form.querySelector('button') as HTMLButtonElement;
 				button.disabled = true;
 				status.textContent = 'Enviando...';
