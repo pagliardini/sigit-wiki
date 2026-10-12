@@ -1,6 +1,6 @@
 {
 	"name": "sigit-wiki",
-	"description": "Build a personal website, blog, or portfolio with Astro.",
+	"description": "Landing y manual de usuario de SIGIT (sigit.pagliardini.com).",
 	"cloudflare": {
 		"label": "Astro Framework Starter",
 		"products": [
@@ -14,7 +14,6 @@
 	"dependencies": {
 		"@astrojs/cloudflare": "12.6.12",
 		"@astrojs/mdx": "4.3.13",
-		"@astrojs/rss": "4.0.14",
 		"@astrojs/sitemap": "3.6.1",
 		"@astrojs/starlight": "^0.37.7",
 		"astro": "5.16.9",

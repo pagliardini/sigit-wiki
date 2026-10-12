@@ -8,10 +8,12 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://example.com",
+	site: "https://sigit.pagliardini.com",
 	integrations: [
 		starlight({
-			title: "SIGIT Wiki",
+			title: "SIGIT",
+			description: "Manual de usuario de SIGIT, gestión de activos e inventario de TI.",
+			favicon: "/favicon.svg",
 			locales: {
 				root: { label: "Español", lang: "es" },
 			},
